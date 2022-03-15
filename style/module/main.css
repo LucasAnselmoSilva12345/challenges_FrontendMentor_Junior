@@ -1,0 +1,51 @@
+.containerMain {
+  width: 100%;
+  height: 100vh;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.containerGenerateAdvice {
+  background-color: #323a49;
+  color: #cee3e9;
+  width: 28.125rem;
+  max-width: 92%;
+  padding: 3rem 1.875rem;
+  border-radius: 0.5rem;
+  text-align: center;
+}
+
+.containerGenerateAdvice .dataAboutId {
+  color: #52ffa8;
+  margin-bottom: 1.25rem;
+  font-size: 0.875rem;
+  text-transform: uppercase;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+}
+
+.containerGenerateAdvice h3 {
+  margin-bottom: 1.25rem;
+}
+
+.containerGenerateAdvice div img {
+  margin: 0 auto;
+}
+
+.getAdviceAPI {
+  background-color: #52ffa8;
+  border: 0.5rem solid #52ffa8;
+  border-radius: 50%;
+  margin-top: -1.5625rem;
+  padding: 0.5rem;
+  cursor: pointer;
+}
+
+.getAdviceAPI img {
+  margin: 0 auto;
+}
