@@ -1,0 +1,84 @@
+.contentHeader{
+  background-color: var(--VeryPaleBlueTopBGPattern);
+  width: 100%;
+  margin: 0 auto;
+  padding: 2.1875rem 1.25rem;
+  display: flex;
+  flex-direction: column;
+}
+
+.contentTitle{
+  border-bottom: 1px solid var(--DarkGrayishBlueText);;
+}
+
+.contentHeader .contentTitle h2 {
+  font-size: 1.625rem;
+  text-transform: capitalize;
+  color: var(--VeryDarkBlueText);
+}
+
+.contentHeader .contentTitle p {
+  font-size: .875rem;
+  margin: .3125rem 0 1rem;
+  color: var(--DarkGrayishBlueText);
+  text-transform: capitalize;
+}
+
+/* Toggle theme */
+
+.contentSwitchToogle{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: .375rem;
+
+  margin-top: 1rem;
+}
+
+.contentSwitchToogle h3{
+  font-size: .875rem;
+  color: var(--DarkGrayishBlueText);
+}
+
+input[type=checkbox]{
+  height: 0;
+  width: 0;
+  visibility: hidden;
+}
+
+label {
+  cursor: pointer;
+  text-indent: -624.9375rem;
+  width: 3.25rem;
+  height: 1.6875rem;
+  background: var(--colorToggle);
+  float: right;
+  border-radius: 6.25rem;
+  position: relative;
+}
+
+label::after{
+  content: '';
+  position: absolute;
+  top: .1875rem;
+  right: .1875rem;
+  width: 1.25rem;
+  height: 1.25rem;
+  background-color: var(--WhiteBG);
+  border-radius: 5.625rem;
+  transition: 0.3s;
+}
+
+input:checked + label {
+  background:
+    linear-gradient(to right, hsl(210, 78%, 56%), hsl(146, 68%, 55%)) border-box;
+}
+
+input:checked + label::after {
+  right: calc(100% - .3125rem);
+  transform: translateX(100%);
+}
+
+label:active:after {
+  width: 2.8125rem;
+}

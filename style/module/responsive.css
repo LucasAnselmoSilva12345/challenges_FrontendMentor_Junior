@@ -1,0 +1,36 @@
+@media only screen and (min-width: 64rem){
+  .contentHeader{
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: row;
+
+    padding: 2.1875rem 7.5rem 7.5rem;
+  }
+
+  .contentTitle{
+    border: 0px;
+  }
+
+  .contentSwitchToogle{
+    margin-top: 0px;
+  }
+  
+  .sectionInformationAboutSocialMedia{
+    margin: -7.5rem auto;
+    padding: 2.1875rem 7.5rem;
+    flex-wrap: wrap;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  /* Second section */
+  .sectionAboutOverviewToday{
+    margin-top: 5.625rem;
+    padding: 2.1875rem 7.5rem;
+  }
+
+  .contentOverviewSocialMedia{
+    grid-template-columns: repeat(4, 1fr);
+  }
+}
