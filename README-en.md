@@ -1,8 +1,8 @@
-# Frontend Mentor - Social media dashboard with theme switcher solution
+# Frontend Mentor - Social media dashboard with theme switcher
 
 This repository is about the solution challenge: [Social media dashboard with theme switcher](https://www.frontendmentor.io/challenges/social-media-dashboard-with-theme-switcher-6oY8ozp_H).
 
-[Version this documentation in portugues]()
+[Version this documentation in portugues](https://github.com/LucasAnselmoSilva12345/challenges_FrontendMentor_Junior/blob/socialMediaDashboardWithThemeSwitcher/README.md)
 
 ## Table of contents
 
@@ -30,7 +30,7 @@ The values passed from this data are static values, and the application also has
 
 ### Links
 
-- Challenge solution: [Add solution URL here](https://your-solution-url.com)
+- Challenge solution: [Social Media Dashboard](https://www.frontendmentor.io/solutions/responsive-social-media-dashboard-with-theme-switcher-ryeq0oHBq)
 - Online application: [Social Media Dashboard](https://socialmediadashboardwiththem.challenges-frontendmentor-junior.pages.dev/)
 
 ## Development process
