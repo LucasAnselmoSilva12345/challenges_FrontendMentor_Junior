@@ -1,8 +1,8 @@
-# Frontend Mentor - Advice generator app solution
+# Frontend Mentor - Advice generator app
 
 Esse repositorio se trata da resolução do desafio [Advice generator app challenge](https://www.frontendmentor.io/challenges/advice-generator-app-QdUG-13db), proposto pela plataforma [FrontendMentor](https://www.frontendmentor.io/home)
 
-[Version this documentation in english](https://github.com/LucasAnselmoSilva12345/challenges_FrontendMentor_Junior/blob/socialMediaDashboardWithThemeSwitcher/README-en.md)
+[Version this documentation in english](https://github.com/LucasAnselmoSilva12345/challenges_FrontendMentor_Junior/blob/adviceGeneratorApp/README-en.md)
 
 ## Tabela de conteúdo
 
