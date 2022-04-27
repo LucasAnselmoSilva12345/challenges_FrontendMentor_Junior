@@ -49,5 +49,5 @@ The values passed from this data are static values, and the application also has
 - LinkedIn - [www.linkedin.com/in/lucas-anselmo-moraes-da-silva](https://www.linkedin.com/in/lucas-anselmo-moraes-da-silva-543636161/)
 - GitHub - [github.com/LucasAnselmoSilva12345](https://github.com/LucasAnselmoSilva12345)
 - DevTo - [@lucas_anselmo](https://dev.to/lucas_anselmo)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@LucasAnselmoSilva12345](https://www.frontendmentor.io/profile/LucasAnselmoSilva12345)
 - Twitter - [@LucasAnselmo202](https://twitter.com/LucasAnselmo202)

@@ -10,9 +10,9 @@ Esse repositório se trata sobre a  solução do desafio: [Social media dashboar
   - [O desafio](#o-desafio)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [Processo de desenvolvimento](#processo-desenvolvimento)
-  - [Tecnologias utilizadas](#tecnologia-utilizada)
-- [Autor](#author)
+- [Processo de desenvolvimento](#processo-de-desenvolvimento)
+  - [Tecnologias utilizadas](#tecnologias-utilizadas)
+- [Autor](#autor)
 
 ## Visão geral
 
@@ -49,5 +49,5 @@ Os valores passados desses dados, são valores estáticos, e a aplicação tamb�
 - LinkedIn - [www.linkedin.com/in/lucas-anselmo-moraes-da-silva](https://www.linkedin.com/in/lucas-anselmo-moraes-da-silva-543636161/)
 - GitHub - [github.com/LucasAnselmoSilva12345](https://github.com/LucasAnselmoSilva12345)
 - DevTo - [@lucas_anselmo](https://dev.to/lucas_anselmo)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@LucasAnselmoSilva12345](https://www.frontendmentor.io/profile/LucasAnselmoSilva12345)
 - Twitter - [@LucasAnselmo202](https://twitter.com/LucasAnselmo202)
