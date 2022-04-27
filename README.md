@@ -1,23 +1,24 @@
 # Frontend Mentor - Advice generator app solution
 
-This is a solution to the [Advice generator app challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/advice-generator-app-QdUG-13db). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+Esse repositorio se trata da resolução do desafio [Advice generator app challenge](https://www.frontendmentor.io/challenges/advice-generator-app-QdUG-13db), proposto pela plataforma [FrontendMentor](https://www.frontendmentor.io/home)
 
-## Table of contents
+[Version this documentation in english](https://github.com/LucasAnselmoSilva12345/challenges_FrontendMentor_Junior/blob/socialMediaDashboardWithThemeSwitcher/README-en.md)
 
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
+## Tabela de conteúdo
+
+- [Visão geral](#visão-geral)
+  - [O desafio](#o-desafio)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
-- [Author](#author)
+- [Processo de desenvolvimento](#processo-de-desenvolvimento)
+  - [Tecnologias utilizadas](#tecnologias-utilizadas)
+- [Autor](#autor)
 
-## Overview
+## Visão geral
 
-### The challenge
+### O desafio
 
-Users should be able to:
-
-- When performing a click action on the section button, the application must pull a random advice from the [API](https://api.adviceslip.com/advice), with the responsible ID.
+Este desafio se trata da criação de uma aplicação responsável por ser um app gerador de desafio, do qual a aplicação trabalha com uma API, e a aplicação seleciona um desafio aleatório, que será solucionado por quem utilizar o app.
 
 ### Screenshot
 
@@ -25,19 +26,23 @@ Users should be able to:
 
 ### Links
 
-<!-- - Solution URL: [Add solution URL here](https://your-solution-url.com) -->
-- Live Site URL: [Advice Generator App](https://challenges-frontendmentor-junior.pages.dev/)
+- Solução do desafio: [Advice Generator App](https://www.frontendmentor.io/solutions/advice-generator-app-with-fetch-api-Hyu-dlwB5)
+- Aplicação online: [Advice Generator App](https://challenges-frontendmentor-junior.pages.dev/)
 
-## My process
+## Processo de desenvolvimento
 
-### Built with
+### Tecnologias utilizadas
 
-- HTML5
+- HTML5 semântico
 - CSS
 - Flexbox
 - JavaScript
+- Fetch API
 
-## Author
+## Autor
 
+- LinkedIn - [www.linkedin.com/in/lucas-anselmo-moraes-da-silva](https://www.linkedin.com/in/lucas-anselmo-moraes-da-silva-543636161/)
+- GitHub - [github.com/LucasAnselmoSilva12345](https://github.com/LucasAnselmoSilva12345)
+- DevTo - [@lucas_anselmo](https://dev.to/lucas_anselmo)
 - Frontend Mentor - [@LucasAnselmoSilva12345](https://www.frontendmentor.io/profile/LucasAnselmoSilva12345)
 - Twitter - [@LucasAnselmo202](https://twitter.com/LucasAnselmo202)
